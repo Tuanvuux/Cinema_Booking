@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0d35ac11-8124-4a4c-9ed4-4a033cb3d41d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/mvc/controller/BookController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/mvc/controller/HelloWorldController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/mvc/controller/UserController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/mvc/entity/BookDetailsEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/mvc/entity/BookEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/mvc/entity/CategoryEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/mvc/formregistration/Gender.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/mvc/formregistration/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/mvc/main/MainTestBook.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/mvc/repository/BookCategory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/mvc/repository/CategoryRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/jsp/book/book.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/jsp/book/header.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/jsp/book/home.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/jsp/helloWorld/header.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/jsp/helloWorld/userForm.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/jsp/helloWorld/userResult.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/js/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/mvc/configuration/JPAConfig.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/mvc/controller/BookController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/mvc/controller/HelloController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/mvc/controller/HelloWorldController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/mvc/controller/UserController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/mvc/entity/BookDetailsEntity.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/mvc/entity/BookEntity.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/mvc/entity/CategoryEntity.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/mvc/formregistration/Gender.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/mvc/formregistration/User.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/mvc/main/MainTestBook.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/mvc/main/main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/mvc/repository/BookCategory.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/mvc/repository/CategoryRepository.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/mvc/configuration/JPAConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/mvc/configuration/JPAConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/mvc/controller/HelloController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/mvc/controller/HelloController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/jsp/helloWorld/greeting.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/jsp/helloWorld/greeting.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resources/css/main.css" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="HTML File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2a28ZrmPF6fXmdzstJp5Bbvjxl6" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.MainTestBook.executor&quot;: &quot;Run&quot;,
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;Smart Tomcat.Tomcat9.executor&quot;: &quot;Run&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/SpringM07/mvc_demo_day1&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="mvc.main" />
+      <recent name="mvc.repository" />
+      <recent name="mvc.entity" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Tomcat9" type="com.poratu.idea.plugins.tomcat">
+      <predefined_log_file enabled="true" id="Tomcat Localhost Log" />
+      <predefined_log_file enabled="true" id="Tomcat Access Log" />
+      <predefined_log_file id="Tomcat Catalina Log" />
+      <predefined_log_file id="Tomcat Manager Log" />
+      <predefined_log_file id="Tomcat Host Manager Log" />
+      <option name="catalinaBase" value="C:\Users\TGDD\.SmartTomcat\mvc_demo_day1\mvc_hello" />
+      <option name="contextPath" value="/mvc_hello" />
+      <option name="docBase" value="$PROJECT_DIR$/src/main/webapp" />
+      <option name="extraClassPath" value="" />
+      <option name="tomcatInfo">
+        <TomcatInfo>
+          <option name="name" value="Apache Tomcat/9.0.62" />
+          <option name="path" value="E:/Java For Web/apache-tomcat-9.0.62" />
+          <option name="version" value="9.0.62.0" />
+        </TomcatInfo>
+      </option>
+      <option name="vmOptions" value="" />
+      <module name="mvc_hello" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-1.8.0_402-semeru-1.8.0_402-249ae16d76d6-6fa25251" />
+        <option value="jdk-1.8.0_402-semeru-1.8.0_402-f644763e9732-cd8dfe1b" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0d35ac11-8124-4a4c-9ed4-4a033cb3d41d" name="Changes" comment="" />
+      <created>1703505371478</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1703505371478</updated>
+    </task>
+    <servers />
+  </component>
+</project>

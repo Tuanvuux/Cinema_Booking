@@ -4,7 +4,7 @@
     margin: 0 auto;
 }
 .pt-10{
-    padding-top: 10px;
+    padding-top: 100px;
 }
 .mt-10{
     margin-top: 10px;
@@ -13,4 +13,8 @@
     color: #ff0000;
     font-style: italic;
     font-weight: bold;
+}
+.form-control{
+    width: 250px;
+    height: 30px;
 }
