@@ -1,0 +1,19 @@
+package mvc.repository;
+
+import org.springframework.data.repository.CrudRepository;
+import org.springframework.stereotype.Repository;
+import mvc.entity.OrderEntity;
+
+import java.util.List;
+
+@Repository
+public interface OrderRepository extends CrudRepository<OrderEntity, Integer> {
+    List<OrderEntity> findAll();
+
+    OrderEntity findByOrderId(int orderId);
+
+    List<OrderEntity> findByCustomerName(String customerName);
+
+    List<OrderEntity> findByCustomerAddress(String customerAddress);
+
+}
