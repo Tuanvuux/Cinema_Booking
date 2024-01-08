@@ -1,5 +1,5 @@
 <%@ page language="java" contentType="text/html; charset=UTF-8" pageEncoding="UTF-8"%>
-<%@taglib uri="http://www.springframework.org/tags/form" prefix="mvc" %>
+<%@taglib uri="http://www.springframework.org/tags/form" prefix="form" %>
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -16,14 +16,13 @@
     <div class="container">
       <div class="navbar-header">
         <a class="navbar-brand" href="/">Spring Web MVC demo</a>
+         <a href="/newBook" style="text-decoration: none;">Add book</a>
+          <a href="/register" style="text-decoration: none; margin-left:15px;">User</a>
+           <a href="/session-test" style="text-decoration: none; margin-left:15px;">Show session</a>
+            <a href="/remove-session" style="text-decoration: none; margin-left:15px;">Remove session</a>
       </div>
-      <div id="navbar" class="nav-collapse collapse">
-        <ul class="nav navbar-nav">
-          <li class="active">
-            <a href="newBook">Add book</a>
-          </li>
-        </ul>
-      </div>
+
+
     </div>
   </nav>
 </body>

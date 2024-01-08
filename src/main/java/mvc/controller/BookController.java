@@ -8,9 +8,11 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.beans.propertyeditors.CustomDateEditor;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
+import org.springframework.validation.BindingResult;
 import org.springframework.web.bind.WebDataBinder;
 import org.springframework.web.bind.annotation.*;
 
+import javax.validation.Valid;
 import java.text.SimpleDateFormat;
 import java.util.Date;
 import java.util.LinkedHashMap;
@@ -21,7 +23,7 @@ import static org.springframework.web.bind.annotation.RequestMethod.GET;
 import static org.springframework.web.bind.annotation.RequestMethod.POST;
 
 @Controller
-@RequestMapping(value = "/")
+@RequestMapping(value = "/book")
 public class BookController {
     @Autowired
     BookCategory bookCategory;
@@ -58,15 +60,25 @@ public class BookController {
         return "book/book";
     }
 
+
+
+    //bean validate
     @RequestMapping(value = "/newBook", method = POST, produces = "text/plain;charset=UTF-8")
-    public String saveBook(BookEntity book){
+    public String save(@Valid @ModelAttribute("book") BookEntity book,
+                       BindingResult bindingResult, Model model){
+        if(bindingResult.hasErrors()){
+            setCategoryDropDownList(model);
+            return "book/book";
+        }
         bookCategory.save(book);
+        //model.addAttribute("book",book);
         return "redirect:/";
     }
 
     @RequestMapping(value = "/edit/{id}", method = GET)
     public String showEditBook(Model model, @PathVariable int id){
-        model.addAttribute("book", bookCategory.findById(id));
+        BookEntity book = bookCategory.findById(id).get();
+        model.addAttribute("book", book);
         model.addAttribute("msg", "update book information");
         model.addAttribute("type", "update");
         model.addAttribute("action", "/updateBook");
@@ -105,4 +117,6 @@ public class BookController {
             model.addAttribute("categoryList", cateMap);
         }
     }
+
+
 }

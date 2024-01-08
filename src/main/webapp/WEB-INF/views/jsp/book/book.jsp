@@ -1,6 +1,6 @@
 <%@ page language="java" contentType="text/html; charset=UTF-8"
 	pageEncoding="UTF-8"%>
-<%@ taglib uri="http://www.springframework.org/tags/form" prefix="mvc" %>
+<%@ taglib uri="http://www.springframework.org/tags/form" prefix="form" %>
 <%@ taglib prefix = "c" uri = "http://java.sun.com/jsp/jstl/core" %>
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
@@ -40,7 +40,9 @@
                                 <form:hidden path="id" />
                                 <form:hidden path="bookDetails.id" />
                             </div>
+                        </c:if>
                             <div class="form-group">
+                                <form:errors path="name" class="text-error" />
                                 <label class="control-label">Name (*)</label>
                                 <form:input path="name" type="text" class="form-control" placeholder="Name" required="true"/>
                             </div>
@@ -68,13 +70,13 @@
                             <div class="form-group">
                                 <label class="control-label">Category (*)</label>
                                 <form:select path="category.id" class="form-control">
-                                    <form:option value="0" label="---Select---"></option>
-                                    <form:option items="${categoryList}"></option>
+                                    <form:option value="0" label="---Select---"/>
+                                    <form:options items="${categoryList}"/>
                                 </form:select>
                             </div>
                             <br>
                             <button type="submit" class="btn btn-info">Save</button>
-                        </c:if>
+
                     </fieldset>
                 </form:form>
             </div>

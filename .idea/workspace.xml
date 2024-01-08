@@ -4,45 +4,21 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0d35ac11-8124-4a4c-9ed4-4a033cb3d41d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/mvc/controller/BookController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/mvc/controller/HelloWorldController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/mvc/controller/UserController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/mvc/entity/BookDetailsEntity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/mvc/entity/BookEntity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/mvc/entity/CategoryEntity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/mvc/formregistration/Gender.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/mvc/formregistration/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/mvc/main/MainTestBook.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/mvc/repository/BookCategory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/mvc/repository/CategoryRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/jsp/book/book.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/jsp/book/header.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/jsp/book/home.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/jsp/helloWorld/header.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/jsp/helloWorld/userForm.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/jsp/helloWorld/userResult.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/js/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/mvc/configuration/JPAConfig.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/mvc/controller/BookController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/mvc/controller/HelloController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/mvc/controller/HelloWorldController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/mvc/controller/UserController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/mvc/entity/BookDetailsEntity.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/mvc/entity/BookEntity.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/mvc/entity/CategoryEntity.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/mvc/formregistration/Gender.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/mvc/formregistration/User.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/mvc/main/MainTestBook.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/mvc/main/main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/mvc/repository/BookCategory.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/mvc/repository/CategoryRepository.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="0d35ac11-8124-4a4c-9ed4-4a033cb3d41d" name="Changes" comment="sss">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/mvc/configuration/JPAConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/mvc/configuration/JPAConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/mvc/controller/HelloController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/mvc/controller/HelloController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/jsp/helloWorld/greeting.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/jsp/helloWorld/greeting.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resources/css/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/mvc/controller/BookController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/mvc/controller/BookController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/mvc/controller/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/mvc/controller/UserController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/mvc/entity/BookDetailsEntity.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/mvc/entity/BookDetailsEntity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/mvc/entity/BookEntity.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/mvc/entity/BookEntity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/jsp/book/book.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/jsp/book/book.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/jsp/book/header.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/jsp/book/header.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/jsp/book/home.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/jsp/book/home.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/mvc/configuration/JPAConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/mvc/configuration/JPAConfig.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/mvc/controller/BookController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/mvc/controller/BookController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/mvc/controller/UserController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/mvc/controller/UserController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/mvc/entity/BookDetailsEntity.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/mvc/entity/BookDetailsEntity.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/mvc/entity/BookEntity.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/mvc/entity/BookEntity.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,6 +30,7 @@
       <list>
         <option value="Enum" />
         <option value="HTML File" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -61,12 +38,24 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/main/java/mvc/controller/CartController.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/mvc/controller/ProductController.java" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/mvc/main/MainOrder.java" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" root0="SKIP_HIGHLIGHTING" />
+  </component>
   <component name="LogFilters">
     <option name="FILTER_ERRORS" value="false" />
     <option name="FILTER_WARNINGS" value="false" />
     <option name="FILTER_INFO" value="true" />
     <option name="FILTER_DEBUG" value="true" />
     <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="ProblemsViewState">
+    <hideBySeverity>
+      <option value="300" />
+    </hideBySeverity>
+    <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 1
@@ -83,17 +72,25 @@
   &quot;keyToString&quot;: {
     &quot;Application.MainTestBook.executor&quot;: &quot;Run&quot;,
     &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;Maven.mvc_hello [clean].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.mvc_hello [install].executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;Smart Tomcat.Tomcat9.executor&quot;: &quot;Run&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
     &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/SpringM07/mvc_demo_day1&quot;
+    &quot;last_opened_file_path&quot;: &quot;D:/SpringM07/mvc_demo_day1/src/main/webapp/WEB-INF/views/jsp&quot;
   }
 }</component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\SpringM07\mvc_demo_day1\src\main\webapp\WEB-INF\views\jsp" />
+      <recent name="D:\SpringM07\mvc_demo_day1\src\main\java\mvc\repository" />
+      <recent name="D:\SpringM07\mvc_demo_day1\src\main\java\mvc\entity" />
+    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="mvc.main" />
+      <recent name="mvc.controller" />
       <recent name="mvc.repository" />
       <recent name="mvc.entity" />
     </key>
@@ -106,7 +103,7 @@
       <predefined_log_file id="Tomcat Manager Log" />
       <predefined_log_file id="Tomcat Host Manager Log" />
       <option name="catalinaBase" value="C:\Users\TGDD\.SmartTomcat\mvc_demo_day1\mvc_hello" />
-      <option name="contextPath" value="/mvc_hello" />
+      <option name="contextPath" value="/" />
       <option name="docBase" value="$PROJECT_DIR$/src/main/webapp" />
       <option name="extraClassPath" value="" />
       <option name="tomcatInfo">
@@ -140,6 +137,19 @@
       <option name="presentableId" value="Default" />
       <updated>1703505371478</updated>
     </task>
+    <task id="LOCAL-00001" summary="sss">
+      <option name="closed" value="true" />
+      <created>1703841943668</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1703841943668</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="sss" />
+    <option name="LAST_COMMIT_MESSAGE" value="sss" />
   </component>
 </project>

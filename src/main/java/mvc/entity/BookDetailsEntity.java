@@ -1,6 +1,8 @@
 package mvc.entity;
 
 
+import org.springframework.format.annotation.DateTimeFormat;
+
 import javax.persistence.*;
 import java.time.LocalDate;
 
@@ -27,6 +29,7 @@ public class BookDetailsEntity {
 
 
     @Column(name = "publishDate")
+    @DateTimeFormat(pattern = "yyyy-MM-dd")
     private LocalDate publishDate;
 
 

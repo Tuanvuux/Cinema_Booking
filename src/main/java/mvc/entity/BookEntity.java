@@ -5,6 +5,7 @@ import mvc.entity.BookDetailsEntity;
 import mvc.entity.CategoryEntity;
 
 import javax.persistence.*;
+import javax.validation.constraints.NotEmpty;
 
 
 @Entity
@@ -16,6 +17,7 @@ public class BookEntity {
     private int id;
 
 
+    @NotEmpty(message = "name not empty")
     @Column(name = "name")
     private String name;
 
