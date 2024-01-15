@@ -7,6 +7,6 @@
 <title>Index</title>
 </head>
 <body>
-	<h3>Hello MVC</h3>
+	<h3>Hellooooooooo</h3>
 </body>
 </html>
