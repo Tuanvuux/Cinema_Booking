@@ -4,79 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0d35ac11-8124-4a4c-9ed4-4a033cb3d41d" name="Changes" comment="order">
+    <list default="true" id="0d35ac11-8124-4a4c-9ed4-4a033cb3d41d" name="Changes" comment="123">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/mvc/controller/BookController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/mvc/controller/CartController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/mvc/controller/HelloController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/mvc/controller/HelloWorldController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/mvc/controller/ProductController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/mvc/controller/RestTestController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/mvc/controller/UserController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/mvc/entity/BookDetailsEntity.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/mvc/entity/BookEntity.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/mvc/entity/BookRestEntity.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/mvc/entity/CategoryEntity.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/mvc/entity/OrderDetailsEntity.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/mvc/entity/OrderEntity.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/mvc/entity/ProductEntity.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/mvc/formregistration/Gender.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/mvc/formregistration/User.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/mvc/main/MainOrder.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/mvc/main/MainTestBook.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/mvc/main/main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/mvc/model/CartSession.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/mvc/model/Customer.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/mvc/repository/BookCategory.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/mvc/repository/BookRestRepository.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/mvc/repository/CategoryRepository.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/mvc/repository/OrderDetailsRepository.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/mvc/repository/OrderRepository.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/mvc/repository/ProductRepository.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/jsp/book/book.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/jsp/book/header.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/jsp/book/home.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/jsp/helloWorld/session.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/jsp/helloWorld/userForm.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/jsp/helloWorld/userResult.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/jsp/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/jsp/index.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/jsp/order/Cart.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/jsp/order/Checkout.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/jsp/order/OrderDetails.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/jsp/order/ProductList.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/jsp/order/header.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/jsp/order/myOrder.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/mvc/controller/BookController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/mvc/controller/CartController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/mvc/controller/HelloController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/mvc/controller/HelloController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/mvc/controller/ProductController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/mvc/controller/RestTestController$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/mvc/controller/RestTestController$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/mvc/controller/RestTestController$3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/mvc/controller/RestTestController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/mvc/controller/UserController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/mvc/entity/BookDetailsEntity.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/mvc/entity/BookEntity.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/mvc/entity/BookRestEntity.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/mvc/entity/CategoryEntity.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/mvc/entity/OrderDetailsEntity.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/mvc/entity/OrderEntity.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/mvc/entity/ProductEntity.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/mvc/formregistration/Gender.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/mvc/formregistration/User.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/mvc/main/MainOrder.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/mvc/main/MainTestBook.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/mvc/model/CartSession.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/mvc/model/Customer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/mvc/repository/BookCategory.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/mvc/repository/BookRestRepository.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/mvc/repository/CategoryRepository.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/mvc/repository/OrderDetailsRepository.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/mvc/repository/OrderRepository.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/mvc/repository/ProductRepository.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/mvc_hello-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/mvc_hello-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/mvc/configuration/JPAConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/mvc/configuration/JPAConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/mvc/configuration/JPAConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/mvc/configuration/JPAConfig.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -128,7 +59,9 @@
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
+    &quot;Application.MainTest.executor&quot;: &quot;Run&quot;,
     &quot;Application.MainTestBook.executor&quot;: &quot;Run&quot;,
+    &quot;Application.main.executor&quot;: &quot;Run&quot;,
     &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
     &quot;Maven.mvc_hello [clean].executor&quot;: &quot;Run&quot;,
     &quot;Maven.mvc_hello [install].executor&quot;: &quot;Run&quot;,
@@ -154,6 +87,19 @@
     </key>
   </component>
   <component name="RunManager" selected="Smart Tomcat.Tomcat9">
+    <configuration name="MainTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="mvc.main.MainTest" />
+      <module name="mvc_hello" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="mvc.main.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="mvc.main.main" />
       <module name="mvc_hello" />
@@ -187,13 +133,13 @@
         </TomcatInfo>
       </option>
       <option name="vmOptions" value="" />
-      <module name="mvc_hello" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MainTest" />
         <item itemvalue="Application.main" />
       </list>
     </recent_temporary>
@@ -239,12 +185,21 @@
       <option name="project" value="LOCAL" />
       <updated>1704711336190</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="123">
+      <option name="closed" value="true" />
+      <created>1705312098074</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1705312098074</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="sss" />
     <MESSAGE value="order" />
-    <option name="LAST_COMMIT_MESSAGE" value="order" />
+    <MESSAGE value="123" />
+    <option name="LAST_COMMIT_MESSAGE" value="123" />
   </component>
 </project>
